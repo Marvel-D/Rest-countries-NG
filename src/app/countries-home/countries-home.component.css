@@ -1,0 +1,15 @@
+img {
+  max-width: 100%;
+}
+.countries {
+  width: 100%;
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+.country-box {
+  margin: 10px;
+  border: 1px solid rebeccapurple;
+  width: 200px;
+  background-color: aqua;
+}
